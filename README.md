@@ -146,5 +146,5 @@ python client2.py
 ---
 
 **Result:**
-- Terminal 1 (Alice): слушает и видит сообщения
+- Terminal 1 (Alice): пишет сообщения, они появляются в Terminal 2 в реальном времени
 - Terminal 2 (Bob): пишет сообщения, они появляются в Terminal 1 в реальном времени
